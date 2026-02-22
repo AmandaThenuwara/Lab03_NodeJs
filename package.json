@@ -1,0 +1,20 @@
+{
+  "name": "lab03_nodejs",
+  "version": "1.0.0",
+  "description": "Lab 03 - Introduction to NodeJS and GitHub Flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmandaThenuwara/Lab03_NodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmandaThenuwara/Lab03_NodeJs/issues"
+  },
+  "homepage": "https://github.com/AmandaThenuwara/Lab03_NodeJs#readme"
+}
